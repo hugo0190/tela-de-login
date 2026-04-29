@@ -1,22 +1,22 @@
-# Tela de Login
+# Tela de Login com Bootstrap
  
-Tela de login simples feita com HTML, CSS e Bootstrap 5.
+## Aluno
  
-## Arquivos
+**Hugo Ricardo Gramme**
  
-- `index.html` → estrutura da página
-- `style.css` → estilo visual
-- `script.js` → validação dos campos
-## Como usar
+## Descrição da Atividade
  
-1. Coloque os 3 arquivos na mesma pasta
-2. Abra o `index.html` no navegador
-> O Bootstrap é carregado pela internet, então é necessário estar conectado.
+Desenvolvimento de uma Tela de Login utilizando Bootstrap.
  
-## Tecnologias
+A atividade consiste na criação de uma interface de login responsiva, contendo:
  
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap 5
+- Campo de entrada para **E-mail**
+- Campo de entrada para **Senha**
+- Botão de **Entrar**
+- Link para **Cadastro** para novos usuários
+A tela foi desenvolvida com o framework Bootstrap, aproveitando seus componentes e utilitários para criar um layout centralizado, moderno e responsivo.
+ 
+## Print da Tela Desenvolvida
+ 
+![Tela de Login](/assets/login_screen.png)
  
